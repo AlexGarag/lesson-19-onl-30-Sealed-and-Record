@@ -1,3 +1,5 @@
+package by.tms.lesson17.onl30.record_and_sealed;
+
 import by.tms.lesson17.onl30.record_and_sealed.record.Student;
 import by.tms.lesson17.onl30.record_and_sealed.record.StudyGroup;
 
