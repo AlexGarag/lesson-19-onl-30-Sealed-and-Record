@@ -20,7 +20,7 @@ public class ExecutorRecord {
         System.out.println(student14.name());
         System.out.println(student12.age());
         if (student12.getClass().isRecord()) {
-            System.out.println("student12 - это record");
+            System.out.println("student12 - это Record");
         }
         System.out.println(Arrays.toString(student14.getClass().getRecordComponents()));
         System.out.println(Arrays.toString(studyGroup05.getClass().getRecordComponents()));
